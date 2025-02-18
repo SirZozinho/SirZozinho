@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Salut, moi c'est Enzo !
 
-<!--
-**SirZozinho/SirZozinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub !
 
-Here are some ideas to get you started:
+🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionné par le FrontEnd et le développement C++, j'aime explorer et apprendre de nouvelles technologies.
+
+🔭 Je travaille actuellement sur Smart Campus, un projet universitaire ou l'on crée une application web afin de tracer les données de température, taux d'humidité et taux de pression atmosphérique dans chaque salle de l'IUT
+
+🌱 J'apprends actuellement le fonctionnement des APIs, SWIFT et la virtualisation 
+
+📫 Contacte-moi : enzobiguet@gmail.com
